@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Ing. civil en computación e informática en formación <br>📚 Estoy aprendiendo sobre tecnologías Back-end<br>🎯 Mis objetivos son el estudio contante, observación y solución de problemas</p>
 
 ###
 
@@ -38,7 +38,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/benjamin-droguett-cabezas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
