@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Benjamín Droguett soy estudiante de Ing. Civil en Computación e Informática.</p>
+<p align="left">Mi nombre es Benjamín Droguett soy estudiante egresado de la carrera de Ing. Civil en Computación e Informática.</p>
 
 ###
 
