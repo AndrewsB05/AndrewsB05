@@ -1,8 +1,8 @@
-<h1 align="left">Hola Bienvenido👋 What's up?</h1>
+<h1 align="left">Hola, bienvenido 👋 What's up?</h1>
 
 ###
 
-<p align="left">Mi nombre es Benjamín Droguett soy estudiante egresado de la carrera de Ing. Civil en Computación e Informática.</p>
+<p align="left">Mi nombre es Benjamín Droguett y soy <b>Ingeniero Civil en Computación e Informática</b> titulado.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Ing. civil en computación e informática en formación <br>📚 Estoy aprendiendo sobre tecnologías Back-end<br>🎯 Mis objetivos son el estudio contante, observación y solución de problemas</p>
+<p align="left">🎓 Ingeniero Civil en Computación e Informática<br>⚙️ Desarrollo back-end y full-stack con Node.js, TypeScript y Python<br>🤖 Experiencia en visión por computador y análisis de emociones con PyTorch y OpenCV<br>🎯 Mis objetivos son el estudio constante, la observación y la solución de problemas</p>
 
 ###
 
@@ -18,16 +18,42 @@
 
 ###
 
+<h3 align="left">Lenguajes</h3>
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cs" height="48" alt="TypeScript, JavaScript, Python, C#" />
+</div>
+
+###
+
+<h3 align="left">Back-end y bases de datos</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,sqlite,prisma" height="48" alt="Node.js, Express, FastAPI, PostgreSQL, SQLite, Prisma" />
+</div>
+
+###
+
+<h3 align="left">Front-end y mobile</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,astro,tailwind" height="48" alt="React, React Native, Angular, Astro, Tailwind CSS" />
+</div>
+
+###
+
+<h3 align="left">IA y visión por computador</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" height="48" alt="PyTorch, OpenCV" />
+</div>
+
+###
+
+<h3 align="left">Herramientas</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,arch,vercel,vitest,pnpm" height="48" alt="Git, GitHub, Docker, Linux, Arch Linux, Vercel, Vitest, pnpm" />
 </div>
 
 ###
@@ -37,8 +63,11 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/benjamin-droguett-cabezas/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/benjamindroguettcc/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://github.com/AndrewsB05" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="github logo" />
   </a>
 </div>
 
