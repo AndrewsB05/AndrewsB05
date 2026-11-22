@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Ingeniero Civil en Computación e Informática<br>⚙️ Desarrollo back-end y full-stack con Node.js, TypeScript y Python<br>🤖 Experiencia en visión por computador y análisis de emociones con PyTorch y OpenCV<br>🎯 Mis objetivos son el estudio constante, la observación y la solución de problemas</p>
+<p align="left">🎓 Ingeniero Civil en Computación e Informática<br>⚙️ Desarrollo back-end y full-stack con Node.js, TypeScript y Python<br>🤖 Experiencia en visión por computador y análisis de emociones con PyTorch y OpenCV<br>🎯 Mis objetivos son el estudio constante, la observación y la solución de problemas<br>🌐 Revisa mis proyectos en mi <a href="https://developer-portfolio-liart-xi.vercel.app/" target="_blank">portafolio</a></p>
 
 ###
 
@@ -63,6 +63,9 @@
 ###
 
 <div align="left">
+  <a href="https://developer-portfolio-liart-xi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portafolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="portafolio" />
+  </a>
   <a href="https://www.linkedin.com/in/benjamindroguettcc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
